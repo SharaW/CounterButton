@@ -1,0 +1,8 @@
+# nodejs
+node_modules/
+npm-debug.lg
+yarn-error.log
+
+# project
+dist/
+env.js
